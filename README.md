@@ -1,4 +1,5 @@
-# php-contact-form
+# A Basic PHP and Contact Form
+
 A basic starting point for creating a PHP contact form. 
 
 ## Tutorial Requirements:
