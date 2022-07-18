@@ -1,4 +1,4 @@
-# A Basic PHP and Contact Form
+# A Basic PHP Contact Form
 
 A basic starting point for creating a PHP contact form. 
 
