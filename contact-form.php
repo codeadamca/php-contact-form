@@ -1,6 +1,6 @@
 <?php
 
-$connect = mysqli_connect('localhost', 'root', 'root', 'sandbox');
+$connect = mysqli_connect('<DB_HOST>', '<DB_USERNAME>', '<DB_PASSWORD>', '<DB_DATABASE>');
 
 $email = isset( $_POST['email'] ) ? $_POST['email'] : '';
 $message = isset( $_POST['message'] ) ? $_POST['message'] : '';
