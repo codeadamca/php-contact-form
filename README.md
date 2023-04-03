@@ -6,7 +6,8 @@ A basic starting point for creating a PHP contact form.
 
 ## Repo Resources
 
-* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [PHP](https://php.net)
 
 Full tutorial URL: https://codeadam.ca/learning/php-contact-form.html
 
